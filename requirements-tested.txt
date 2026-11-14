@@ -1,0 +1,9 @@
+numpy==2.3.5
+pandas==2.2.3
+scikit-learn==1.8.0
+streamlit==1.65.0
+SQLAlchemy==2.1.4
+PyMySQL==1.2.3
+python-dotenv==1.2.4
+joblib==1.5.3
+pytest==9.1.1
